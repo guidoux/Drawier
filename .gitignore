@@ -1,0 +1,6 @@
+/build/*
+drawier.iml
+.idea/*
+.gradle/*
+drawier.ipr
+drawier.iws
